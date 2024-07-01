@@ -9,3 +9,13 @@ checking if its all right
 ``` javascript
 var myVar = "Hello, world!";
 ```
+## task list sample 1
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+ 
+ ## task list sample 2
+
+ - [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
